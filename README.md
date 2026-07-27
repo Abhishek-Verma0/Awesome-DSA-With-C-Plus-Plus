@@ -57,26 +57,3 @@ There are many ways to contribute to this project:
 4. **Suggest Enhancements**: If you have an idea for a feature or enhancement, feel free to propose it by opening an issue.
 
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/Abhishek-Verma0/DSA-With-C-Plus-Plus/tree/master/0257-binary-tree-paths) |
-## Backtracking
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/Abhishek-Verma0/DSA-With-C-Plus-Plus/tree/master/0257-binary-tree-paths) |
-## Tree
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/Abhishek-Verma0/DSA-With-C-Plus-Plus/tree/master/0257-binary-tree-paths) |
-## Depth-First Search
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/Abhishek-Verma0/DSA-With-C-Plus-Plus/tree/master/0257-binary-tree-paths) |
-## Binary Tree
-|  |
-| ------- |
-| [0257-binary-tree-paths](https://github.com/Abhishek-Verma0/DSA-With-C-Plus-Plus/tree/master/0257-binary-tree-paths) |
-<!---LeetCode Topics End-->
